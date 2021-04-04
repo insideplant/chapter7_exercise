@@ -1,0 +1,44 @@
+* {
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 400px;
+  width:100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+main {
+  padding: 50px;
+  width: 840px;
+  margin: 0 auto;
+}
+
+.corse-item1 {
+  border-bottom: 1px solid;
+  padding-bottom: 30px;
+}
+
+.corse-item2 {
+  border-bottom: 1px solid;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.corse-item3 {
+  border-bottom: 1px solid;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.corse-item4 {
+  border-bottom: 1px solid;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
